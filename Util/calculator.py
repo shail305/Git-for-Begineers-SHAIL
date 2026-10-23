@@ -10,5 +10,5 @@ def subnum(self, a, b):
 def pow(self, a, b):
     return a ** b
 
-def mulnum( a, b):
+def multiplynum( a, b):
     return a * b

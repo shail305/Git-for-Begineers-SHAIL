@@ -1,3 +1,4 @@
-from Util.calculator import addnum
+from Util.calculator import addnum, divde
 if __name__ == "__main__":
     print("Addition of 2 numbers is: ", addnum(10, 20))
+    print("Division of 2 numbers is: ", divde(10, 20))

@@ -6,3 +6,6 @@ def divde( a, b):
 
 def subnum(self, a, b):
     return a - b
+
+def pow(self, a, b):
+    return a ** b
